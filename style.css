@@ -1,0 +1,16 @@
+button{
+    padding: 10px 18px; 
+    background-color: blue;
+    color: whitesmoke;
+    margin-right: 20px;
+    border: none;
+    border-radius: 15px;
+}
+
+.card {
+    border: 1px grey solid; 
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
